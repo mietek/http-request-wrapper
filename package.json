@@ -1,0 +1,13 @@
+{
+  "name": "http-request-wrapper",
+  "version": "1.0.0",
+  "description": "TODO",
+  "author": "Miëtek Bak <hello@mietek.io>",
+  "homepage": "https://github.com/mietek/http-request-wrapper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mietek/http-request-wrapper"
+  },
+  "license": "MIT",
+  "main": "src/index.js"
+}
